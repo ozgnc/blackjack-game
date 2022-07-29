@@ -1,2 +1,2 @@
-# blackjack-game
- Blackjack game created by Ozgun Ceci
+
+A blackjack game created by Ozgun Ceci using Javascript
